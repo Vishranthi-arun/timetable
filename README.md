@@ -100,6 +100,6 @@ Execute the program
 </html>
 ~~~
 # OUPUT
-![TIME TABLE](./photo.PNG)
+![TIME TABLE](./photo.png)
 # RESULT
 Thus my time table is executed.
